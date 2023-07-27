@@ -1,0 +1,8 @@
+[Desktop Entry]
+
+Comment=Obsidian note taking app
+Name=Obsidian
+Exec=Obsidian
+Icon=Obsidian
+Type=Application
+Terminal=false
